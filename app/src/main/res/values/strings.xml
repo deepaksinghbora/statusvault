@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StatusVault</string>
+    <string name="tab_whatsapp">Media</string>
+    <string name="tab_saved">Saved</string>
+    <string name="choose_folder">Choose folder</string>
+    <string name="change_folder">Change folder</string>
+    <string name="refresh">Refresh</string>
+    <string name="filter">Filter</string>
+    <string name="filter_all">All</string>
+    <string name="filter_images">Images</string>
+    <string name="filter_videos">Videos</string>
+    <string name="sort_by_date">Sort by date</string>
+    <string name="sort_newest">Newest</string>
+    <string name="sort_oldest">Oldest</string>
+    <string name="whatsapp_empty_title">No folder selected</string>
+    <string name="whatsapp_empty_body">Pick the WhatsApp .Statuses folder so StatusVault can list photos and videos already on your device.\n\nTypical path:\nAndroid/media/com.whatsapp/WhatsApp/Media/.Statuses\n\nWhatsApp Business uses a similar path under com.whatsapp.w4b.</string>
+    <string name="saved_empty_title">Nothing saved yet</string>
+    <string name="saved_empty_body">Statuses you save will appear here.</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="share_app">Share app</string>
+    <string name="share_app_text">Download StatusVault: %1$s</string>
+    <string name="delete">Delete</string>
+    <string name="save_to_gallery">Save to gallery</string>
+    <string name="saved_snackbar">Saved to StatusVault</string>
+    <string name="gallery_snackbar">Saved to gallery</string>
+    <string name="deleted_snackbar">Deleted</string>
+    <string name="folder_granted">Folder access granted</string>
+    <string name="folder_cancelled">Folder was not selected</string>
+    <string name="error_generic">Something went wrong</string>
+    <string name="allow_folder_title">Allow folder access</string>
+    <string name="cancel">Cancel</string>
+    <string name="share_via">Share via</string>
+    <string name="theme">Theme</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+</resources>
