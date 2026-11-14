@@ -13,3 +13,16 @@
 .externalNativeBuild
 .cxx
 local.properties
+.kotlin/
+
+# Built binaries are published as GitHub Release assets, not committed
+*.apk
+*.aab
+*.ap_
+
+# Android Studio "Generate Signed APK" output (apk, baseline profiles, metadata)
+/app/release/
+
+# Signing keys
+*.jks
+*.keystore
