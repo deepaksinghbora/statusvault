@@ -1,0 +1,29 @@
+CHANGELOG.md
+  s_ba14b107e0359a::t_5a8d74f80e1a06 1-31
+README.md
+  s_ba14b107e0359a::t_b91ced97c783df 1-37,39-79
+  h_2395fc6d2fe371 38
+app/build.gradle.kts
+  s_ba14b107e0359a::t_a195e9f0188700 19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4d47ea9610ee15ea1d8fe94c72b09c55f1ee2ec4",
+  "prompts": {},
+  "humans": {
+    "h_2395fc6d2fe371": {
+      "author": "Deepak <deepak.bora@telekom-digital.com>"
+    }
+  },
+  "sessions": {
+    "s_ba14b107e0359a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "65ae4f01-9303-4a64-932d-7a7e4dc1e3b2",
+        "model": "auto-smart"
+      },
+      "human_author": "Deepak <deepak.bora@telekom-digital.com>"
+    }
+  }
+}
