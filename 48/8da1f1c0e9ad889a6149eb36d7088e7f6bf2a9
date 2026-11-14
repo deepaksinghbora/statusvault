@@ -1,0 +1,18 @@
+.idea/gradle.xml
+  h_2395fc6d2fe371 3
+.idea/inspectionProfiles/Project_Default.xml
+  h_2395fc6d2fe371 1-50
+.idea/vcs.xml
+  h_2395fc6d2fe371 3-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "488da1f1c0e9ad889a6149eb36d7088e7f6bf2a9",
+  "prompts": {},
+  "humans": {
+    "h_2395fc6d2fe371": {
+      "author": "Deepak <deepak.bora@telekom-digital.com>"
+    }
+  }
+}
