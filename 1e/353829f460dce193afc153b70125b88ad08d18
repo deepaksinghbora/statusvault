@@ -1,0 +1,19 @@
+app/src/main/java/com/deepak/statusvault/ui/StatusVaultApp.kt
+  s_ba14b107e0359a::t_6a5cdc332e15f9 292
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1e353829f460dce193afc153b70125b88ad08d18",
+  "prompts": {},
+  "sessions": {
+    "s_ba14b107e0359a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "65ae4f01-9303-4a64-932d-7a7e4dc1e3b2",
+        "model": "auto-smart"
+      },
+      "human_author": "Deepak <deepak.bora@telekom-digital.com>"
+    }
+  }
+}
