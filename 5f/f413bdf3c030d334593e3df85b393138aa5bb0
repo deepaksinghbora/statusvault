@@ -1,0 +1,24 @@
+.gitignore
+  s_f5c37229263fab::t_2631832b8894e2 16-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5ff413bdf3c030d334593e3df85b393138aa5bb0",
+  "prompts": {},
+  "humans": {
+    "h_2395fc6d2fe371": {
+      "author": "Deepak <deepak.bora@telekom-digital.com>"
+    }
+  },
+  "sessions": {
+    "s_f5c37229263fab": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "00c12e11-032e-450e-9f97-6823cfc49832",
+        "model": "auto-smart"
+      },
+      "human_author": "Deepak <deepak.bora@telekom-digital.com>"
+    }
+  }
+}
