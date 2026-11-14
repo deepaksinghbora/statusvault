@@ -289,7 +289,7 @@ private fun AppNavigationBar(
 }
 
 private fun shareAppDownloadLink(context: Context) {
-    val link = "https://play.google.com/store/apps/details?id=${context.packageName}"
+    val link = "https://github.com/deepaksinghbora/statusvault/releases/latest/download/app-release.apk"
     val send = Intent(Intent.ACTION_SEND).apply {
         type = "text/plain"
         putExtra(Intent.EXTRA_TEXT, context.getString(R.string.share_app_text, link))
